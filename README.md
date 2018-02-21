@@ -1,2 +1,2 @@
 # Test
-[Objective-C](docs/ObjectiveC)
+[Objective-C](https://yeqingyan.github.io/languages/ObjectiveC)
