@@ -1,2 +1,2 @@
 # Test
-[Objective-C](docs/ObjectiveC.md)
+[Objective-C](docs/ObjectiveC)
